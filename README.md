@@ -1,17 +1,27 @@
-# Advanced Network & Traffic Analysis Lab
+Advanced Network Attacks & Traffic Analysis Lab
+This repository contains hands-on labs for learning advanced
+network attacks and defenses with Kali Linux and Windows.
 
-## Purpose
-Educational and lab-based practice for network security attacks and defenses.
+⚠️ Disclaimer
+This project is for **educational purposes only**.
+All labs must be performed in an isolated environment.
 
-## Topics
-- ARP Spoofing (MITM)
-- DNS Poisoning
-- DNS Tunneling
-- Traffic Analysis (Wireshark)
-
-## Lab Environment
+🧪 Lab Environment
 - Kali Linux
-- Windows 10
-- Isolated Virtual Network
+- Windows 10/11
+- VirtualBox / VMware
 
-⚠️ For educational purposes only.
+📚 Topics Covered
+- ARP Spoofing (MITM)
+- DNS Spoofing & Poisoning
+- DNS Tunneling
+- Traffic Analysis (Wireshark, tcpdump)
+- Detection & Defense (Suricata, Snort)
+ 🛠 Tools
+- Ettercap
+- Wireshark
+- tcpdump
+- Suricata
+
+👤 Author
+Abdulkadir Mohamud
